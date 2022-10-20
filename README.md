@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm oussama sboui</h1>
+<h1 align="center">Hi 👋, I'm Oussama </h1>
 <h3 align="center">A passionate software engineering student</h3>
 
 - 🔭 I’m currently working on **DEVOPS project**
