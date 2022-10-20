@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm oussama sboui</h1>
 <h3 align="center">A passionate software engineering student</h3>
 
-- 🔭 I’m currently working on **DEVEPOS project**
+- 🔭 I’m currently working on **DEVOPS project**
 
-- 🌱 I’m currently learning **DEVEPOS**
+- 🌱 I’m currently learning **DEVOPS**
 
 - 💬 Ask me about **programming in general, I am always available to help and learn together.**
 
