@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Fullstack React/Node Project**
 
-- 🌱 I’m currently learning **DEVOPS**
+- 🌱 I’m currently learning **DJANGO**
 
 - 💬 Ask me about **programming in general, I am always available to help and learn together.**
 
